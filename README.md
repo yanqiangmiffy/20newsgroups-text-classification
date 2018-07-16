@@ -17,3 +17,7 @@
     GradientBoostingClassifier准确率为： 0.9186046511627907
     AdaBoostClassifier准确率为： 0.5916815742397138
     DecisionTreeClassifier准确率为： 0.9758497316636852
+
+- CNN实现文本分类
+
+    需要词向量http://nlp.stanford.edu/data/glove.6B.zip
